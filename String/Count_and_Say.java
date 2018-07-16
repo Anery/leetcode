@@ -1,4 +1,3 @@
-```java
 class Solution {
     public String read(String s){
         int count=1;
@@ -23,4 +22,3 @@ class Solution {
         return a;
     }
 }
-```
