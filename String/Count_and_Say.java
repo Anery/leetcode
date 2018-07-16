@@ -13,6 +13,7 @@ class Solution {
         read = read + count + s.charAt(s.length() - 1);
         return read;
     }
+    
     public String countAndSay(int n) {
         String s = "1" , a = "1";
         for(int i=1;i<n;i++){
